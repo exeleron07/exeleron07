@@ -1,4 +1,6 @@
-![Header](https://github.com/exeleron07/exeleron07/blob/main/assets/1.png)
+<p align="center">
+  <img src="https://github.com/exeleron07/exeleron07/blob/main/assets/1.png" alt="Header">
+</p>
 
 ## I'm a beginner DevOps Engineer
 
