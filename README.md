@@ -2,10 +2,8 @@
   <img src="https://github.com/exeleron07/exeleron07/blob/main/assets/1.png" alt="Header">
 </p>
 
-## I'm a beginner DevOps Engineer
-
-Courses
-
+## <h1> I'm a beginner DevOps Engineer</h1>
+Hi everyone, my name is Vladislav, I'm 21 years old and I'm a beginner DevOps-engineer. I learn everything little by little and have a desire to develop!
 ### Languages and Tools
 ![Linux](https://img.shields.io/badge/-Linux-010409?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-010409?style=for-the-badge&logo=docker)
