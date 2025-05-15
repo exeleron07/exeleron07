@@ -1,4 +1,4 @@
-[![Header](https://github.com/exeleron07/exeleron07/blob/main/assets/1.png)](https://vk.com/vlad_versh)
+![Header](https://github.com/exeleron07/exeleron07/blob/main/assets/1.png)
 
 ## I'm a beginner DevOps Engineer
 
@@ -14,4 +14,6 @@ Courses
 ![Python](https://img.shields.io/badge/-Python-010409?style=for-the-badge&logo=Python)
 
 
-Follow Me
+### Follow Me
+[![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-010409?style=for-the-badge&logo=VK)](https://vk.com/vlad_versh)
+[![Telegram](https://img.shields.io/badge/-Telegram-010409?style=for-the-badge&logo=Telegram)](https://t.me/exeleron01)
