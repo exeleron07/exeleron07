@@ -3,7 +3,7 @@
 </p>
 
 ## <h1> I'm a beginner DevOps Engineer</h1>
-Hi everyone, my name is Vladislav, I'm 21 years old and I'm a beginner DevOps-engineer. I learn everything little by little and have a desire to develop!
+Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться
 ### Languages and Tools
 ![Linux](https://img.shields.io/badge/-Linux-010409?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-010409?style=for-the-badge&logo=docker)
