@@ -27,4 +27,4 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/exeleron01/exeleron01/blob/output/github-contribution-grid-snake.gif)
