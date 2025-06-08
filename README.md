@@ -4,12 +4,11 @@
 
 <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Devops+Engineer;YOUR+INTEREST+HERE;)](https://git.io/typing-svg)
+
 <div align="left">
-  <h3> ⭐ &nbsp;I'm a beginner DevOps Engineer </h3>
   <p>&nbsp;Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться</p>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Devops+Ingener;YOUR+INTEREST+HERE;)](https://git.io/typing-svg)
 
 ### Languages and Tools
 ![Linux](https://img.shields.io/badge/-Linux-010409?style=for-the-badge&logo=linux)
