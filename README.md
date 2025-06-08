@@ -30,7 +30,6 @@
 ![GIT](https://img.shields.io/badge/-GIT-010409?style=for-the-badge&logo=git)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-010409?style=for-the-badge&logo=jenkins)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-010409?style=for-the-badge&logo=kubernetes)
-![Python](https://img.shields.io/badge/-Python-010409?style=for-the-badge&logo=Python)
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-010409?style=for-the-badge&logo=VK)](https://vk.com/vlad_versh)
