@@ -5,12 +5,10 @@
 <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
 
 <div align="left">
-  <h3> ⭐ &nbsp;I'm a beginner DevOps Engineer </h3>
+  <h1> ⭐ &nbsp;I'm a beginner DevOps Engineer </h1>
   <p>&nbsp;Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться</p>
 </div>
 
-## <h1> I'm a beginner DevOps Engineer</h1>
-Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться
 ### Languages and Tools
 ![Linux](https://img.shields.io/badge/-Linux-010409?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-010409?style=for-the-badge&logo=docker)
