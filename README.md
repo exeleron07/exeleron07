@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/exeleron07/exeleron07/blob/main/assets/1.png" alt="Header">
+  <img src="https://github.com/exeleron07/exeleron07/blob/main/assets/1.png" alt="Header" width="100">
 </p>
 
 
