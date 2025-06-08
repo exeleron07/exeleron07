@@ -9,6 +9,8 @@
   <p>&nbsp;Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться</p>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Devops+Ingener;YOUR+INTEREST+HERE;)](https://git.io/typing-svg)
+
 ### Languages and Tools
 ![Linux](https://img.shields.io/badge/-Linux-010409?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-010409?style=for-the-badge&logo=docker)
