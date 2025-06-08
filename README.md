@@ -8,7 +8,6 @@
 
 <div align="left">
   <h3> 👋 Hi there, I'm Vladislav </h3>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Devops+Engineer;Always+Learning+Always+Curios;)](https://git.io/typing-svg)
   <p>&nbsp;Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться</p>
 </div>
 
