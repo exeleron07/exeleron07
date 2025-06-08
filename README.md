@@ -25,3 +25,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-010409?style=for-the-badge&logo=Telegram)](https://t.me/exeleron01)
 
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
