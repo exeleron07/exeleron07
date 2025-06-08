@@ -1,4 +1,6 @@
-<img src="https://github.com/exeleron07/exeleron07/blob/main/assets/1.png" alt="Header" width="500">
+<p align="center">
+  <img src="https://github.com/exeleron07/exeleron07/blob/main/assets/1.png" alt="Header" width="500">
+</p>
 
 <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
 
