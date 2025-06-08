@@ -2,9 +2,9 @@
   <img src="https://github.com/exeleron07/exeleron07/blob/main/assets/1.png" alt="Header" width="500">
 </p>
 
-<img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Devops+Engineer;Always+Learning+Always+Curios;)](https://git.io/typing-svg)
+
+<img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
 
 <div align="left">
   <h3> 👋 Hi there, I'm Vladislav </h3>
