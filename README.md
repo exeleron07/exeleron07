@@ -2,6 +2,8 @@
   <img src="https://github.com/exeleron07/exeleron07/blob/main/assets/1.png" alt="Header">
 </p>
 
+<img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
+
 ## <h1> I'm a beginner DevOps Engineer</h1>
 Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться
 ### Languages and Tools
