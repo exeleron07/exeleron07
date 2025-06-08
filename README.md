@@ -5,7 +5,7 @@
 <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
 
 <div align="left">
-  <h2> ⭐ &nbsp;I'm a beginner DevOps Engineer </h2>
+  <p> ⭐ &nbsp;I'm a beginner DevOps Engineer </p>
   <p>&nbsp;Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться</p>
 </div>
 
