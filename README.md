@@ -4,11 +4,11 @@
 
 <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
 
-# 👋 Hi there, I'm Vladislav
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Devops+Engineer;Always+Learning+Always+Curios;)](https://git.io/typing-svg)
 
 <div align="left">
+  <h3> 👋 Hi there, I'm Vladislav </h3>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Devops+Engineer;Always+Learning+Always+Curios;)](https://git.io/typing-svg)
   <p>&nbsp;Всем привет! Меня зовут Владислав, мне 21 год и я начинающий DevOps-инженер. Я учусь всему понемногу и имею желание развиваться</p>
 </div>
 
