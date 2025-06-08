@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/exeleron07/exeleron07/blob/61d7ae4aeb30bbf852064c93f4a8e2328ef1dc0a/assets/1%20(1).png" alt="Header" width="500">
+  <img src="https://github.com/exeleron07/exeleron07/blob/9ce59d637ec96153771efb9ff02da73c26d7c0c4/assets/55b2e5ee-cd08-4c7d-a29f-893205d33be9%20(1).gif" alt="Header" width="500">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+DevOps+Engineer;Always+Learning+Always+Curios;)](https://git.io/typing-svg)
